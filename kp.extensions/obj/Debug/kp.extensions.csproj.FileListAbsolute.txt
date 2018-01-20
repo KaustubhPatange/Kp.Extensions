@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2015\Projects\kp.extensions\kp.extensions\bin\Debug\kp.extensions.dll
+c:\users\dell\documents\visual studio 2015\Projects\kp.extensions\kp.extensions\bin\Debug\kp.extensions.pdb
+c:\users\dell\documents\visual studio 2015\Projects\kp.extensions\kp.extensions\obj\Debug\kp.extensions.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\kp.extensions\kp.extensions\obj\Debug\kp.extensions.dll
+c:\users\dell\documents\visual studio 2015\Projects\kp.extensions\kp.extensions\obj\Debug\kp.extensions.pdb
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\kp.extensions\kp.extensions\obj\Debug\kp.extensions.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\Visual Studio 2015\Projects\kp.extensions\kp.extensions\obj\Debug\kp.extensions.Properties.Resources.resources
